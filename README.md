@@ -1,6 +1,8 @@
 # This-repo-is-the-official-conceptual-definition-of-DFH-Deterministic-First-Hop-and-the-Semantic-
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 
+Here is the real semantic layer.
+
 The Transport Layer (TCP/IP) → moves packets
 
 The Hyperlink Layer (HTTP/HTML) → shows documents
