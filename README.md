@@ -1,4 +1,5 @@
 # This-repo-is-the-official-conceptual-definition-of-DFH-Deterministic-First-Hop-and-the-Semantic-
+This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 It contains:  the core idea  the purpose  the architecture  the 5 Anchors  why DFH exists  why the world needs an external semantic layer  how sitemaps became the real grounding schema  why this replaces 20 years of failed semantic tech  why DFH is decentralized and inevitable  No tools. No installation instructions. No validators. 
 
 The-Semantic-Stack-DFH-Concept-Root/
